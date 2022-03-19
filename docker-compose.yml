@@ -8,4 +8,4 @@ services:
         ports:
             - "80:80"
         volumes:
-            - ./1_basic_context:/usr/share/nginx/html:ro
+            - ./03_GL_Triangles:/usr/share/nginx/html:ro
